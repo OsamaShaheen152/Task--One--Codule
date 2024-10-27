@@ -1,0 +1,7 @@
+.needed-list {
+  list-style-type: none;
+}
+
+.needed-list li::before {
+  content: "▶️";
+}
